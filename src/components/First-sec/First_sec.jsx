@@ -37,11 +37,11 @@ const First_sec = () => {
                         </div>
 
                         <div class="dropdown5">
-                            <button class="dropbtn4">Вес</button>
-                            <div class="dropdown-content4">
-                                <a href="#">от 40кг до 50кг</a>
-                                <a href="#">от 50кг до 60кг</a>
-                                <a href="#">от 60кг до 75кг</a>
+                            <button class="dropbtn5">Грудь</button>
+                            <div class="dropdown-content5">
+                                <a href="#">от 1 до 2</a>
+                                <a href="#">от 2 до 3</a>
+                                <a href="#">от 3 до 4</a>
                             </div>
                         </div>
                         </div>
